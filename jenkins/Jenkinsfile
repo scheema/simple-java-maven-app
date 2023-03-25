@@ -1,6 +1,6 @@
 pipeline {
     
-    /* Use agent deployable to local node *
+    /* Use agent deployable to local node */
     agent any
     
     /* For simplification remove the following section
